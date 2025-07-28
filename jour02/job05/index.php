@@ -8,11 +8,11 @@ function isPrime($n) {
 // renvoie faux
         return false;
     }
-// teste tous les diviseurs possibles de 2 à racine carrée de n / A REVOIR MAL COMPRIS
-    for ($i = 2; $i <= sqrt($n); $i++) {
+
+     for ($i = 2; $i < $n; $i++) {
 // si n est divisible par i ce n'est pas un nombre premier
         if ($n % $i == 0) {
- //un diviseur trouvé pas premier
+//un diviseur trouvé c'est pas un nombre premier
             return false;
         }
     }
