@@ -12,7 +12,7 @@ augmente $espace de 1 à chaque tour donc affiche un espace à chaque fois*/
 // affiche espace insécable pour centrer
          echo "&nbsp; "; 
         }
-//boucle étoiles:  
+//boucle étoiles  
 // à chaque ligne affiche un nombre impair d'étoiles
 // 2 * $i + 1 donne le bon nombre d’étoiles à chaque ligne
 // Exemple : ligne 0 = 1 étoile, ligne 1 =  3 étoiles, ligne 2 = 5 étoiles, etc
