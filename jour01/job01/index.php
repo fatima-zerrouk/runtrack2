@@ -15,11 +15,11 @@ echo "<br>" . $val;
 
 $myBool = true;
 echo "<br>" ;
-var_dump($myBool);
+echo $myBool;
 
 $myBool = false;
 echo "<br>";
-var_dump($myBool);
+echo $myBool;
 
 
  ?>

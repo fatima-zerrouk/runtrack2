@@ -11,7 +11,7 @@ for ($i = 0; $i <= 100; $i++){
         echo "<i> $i</i> <br>";
     } 
 //sinon $i supérieur ou égal à 25  $i inférieur ou égal à 50 affiche un soulignement
-    elseif ($i>=25 && $i <=50) {
+    elseif ($i>=25 AND $i <=50) {
         echo "<u> $i</u> <br>";
       }   
     else {
