@@ -28,7 +28,7 @@ $result = $connexion->query($sql);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Job 2</title>
+    <title>Job 6</title>
 
     <style>
         table {
