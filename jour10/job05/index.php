@@ -29,7 +29,7 @@ $result = $connexion->query($sql);
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Job 2</title>
+    <title>Job 5</title>
 
     <style>
         table {
@@ -45,8 +45,6 @@ $result = $connexion->query($sql);
 </head>
 
 <body>
-
-    <h1>Salles</h1>
 
     <section>
         <table>

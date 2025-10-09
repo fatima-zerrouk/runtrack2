@@ -45,7 +45,6 @@ $result = $connexion->query($sql);
 
 <body>
 
-    <h1>Salles</h1>
 
     <section>
         <table>
